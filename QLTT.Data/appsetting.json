@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "QLTTSolutionDB": "Server=DESKTOP-GFQE742\\SQLEXPRESS;Database=QLTT;Trusted_Connection=True;"
+  }
+}
